@@ -1,0 +1,9 @@
+devboard\TaskService.class
+devboard\Priority.class
+devboard\Status.class
+devboard\TaskController.class
+devboard\TaskRepository.class
+devboard\DataSeeder.class
+devboard\DevboardBackendApplication.class
+devboard\Task.class
+devboard\StatusUpdateRequest.class
